@@ -1,7 +1,7 @@
 <h1 align="center">Nikolay Mandaji</h1>
 
 <p align="center">
-  Backend engineer focused on AI systems, retrieval infrastructure, and product tooling.
+  Full-stack engineer focused on AI systems, retrieval infrastructure, and product tooling.
 </p>
 
 <p align="center">
@@ -14,20 +14,20 @@
 
 ## About
 
-- Building practical backend systems with a focus on search, retrieval, and AI-assisted products.
-- Interested in explicit architecture, durable workflows, observability, and clean operational boundaries.
-- Based in Moscow and currently working on self-hosted RAG and product infrastructure.
+- Building practical full-stack products with a focus on search, retrieval, and AI-assisted systems.
+- Interested in clean architecture, durable workflows, observability, and thoughtful user-facing interfaces.
+- Based in Moscow and currently working across backend infrastructure and product-facing experiences.
 
 ## Current Focus
 
 - Collection-first RAG systems
 - Search and retrieval pipelines
-- API and worker architecture
+- API, worker, and frontend product architecture
 - Release and operational workflows
 
 ## Tech
 
-`TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` `Qdrant` `OpenTelemetry`
+`TypeScript` `JavaScript` `Node.js` `React` `PostgreSQL` `Redis` `Docker` `Qdrant`
 
 ## Featured Projects
 
