@@ -27,7 +27,10 @@
 
 ## Tech
 
-`TypeScript` `JavaScript` `Node.js` `React` `PostgreSQL` `Redis` `Docker` `Qdrant`
+- Frontend: `React` `JavaScript` `TypeScript` `HTML` `CSS`
+- Backend: `Node.js` `Express` `REST APIs`
+- Databases & Search: `PostgreSQL` `Redis` `Qdrant`
+- Infra & Tooling: `Docker` `Git` `GitHub Actions` `OpenTelemetry`
 
 ## Featured Projects
 
