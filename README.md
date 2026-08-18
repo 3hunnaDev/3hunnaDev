@@ -6,10 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikolay-mandaji-92305138b/">LinkedIn</a>
-  ·
-  <a href="https://github.com/3hunnaDev/qio-public">qio</a>
-  ·
-  <a href="https://github.com/3hunnaDev/react-burger">react-burger</a>
 </p>
 
 ## What I Do
